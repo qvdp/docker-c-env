@@ -22,7 +22,6 @@ SOURCES = ft_get_nline.c\
 		  ft_memalloc.c\
 		  ft_memset.c\
 		  ft_memcpy.c\
-		  ft_memccpy.c\
 		  ft_memchr.c\
 		  ft_memcmp.c\
 		  ft_memdel.c\
