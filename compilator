@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -Werror -I ./libft/includes -o hello_world.o -c *.c && gcc -o hello_world hello_world.o -I ./libft/includes -L ./libft -lft && rm ./hello_world.o
